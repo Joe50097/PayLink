@@ -1,6 +1,6 @@
 # 🌐 PayLink - Modern Payment System UI
 
-A sleek, modern, and fully responsive **web design project** focusing on the aesthetic and User Interface (UI) of a hypothetical digital payment platform called **PayLink**.
+A sleek, modern, and fully responsive **web design project** focusing on the aesthetic and User Interface (UI) of a digital payment platform called **PayLink**.
 
 ---
 
